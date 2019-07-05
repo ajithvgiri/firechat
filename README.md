@@ -1,6 +1,6 @@
 # Firebase firechat
 
-One Paragraph of project description goes here
+firechat application from development branch
 
 ## Getting Started
 
