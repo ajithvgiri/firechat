@@ -1,2 +1,0 @@
-# firechat
-firebase chat application
