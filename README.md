@@ -1,6 +1,6 @@
 # Firebase firechat
 
-firechat application from development branch
+firechat application from master branch
 
 ## Getting Started
 
